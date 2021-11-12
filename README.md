@@ -1,0 +1,2 @@
+# Hotel-Booking-Demand-Dataset
+The following dataset we will be working on is on Hotel Demand in Lisbon and Algarve, Portugal. Since this is hotel real data, all data elements pertaining hotel or costumer identification were deleted. Due to the scarcity of real business data for scientific and educational purposes, these datasets can have an important role for research and education in revenue management, machine learning, or data mining, as well as in other fields.
